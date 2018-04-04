@@ -1,0 +1,2 @@
+# someFun
+some javascript function
