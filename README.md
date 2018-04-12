@@ -1,2 +1,2 @@
 # someFun
-some javascript function
+一些JS方法
